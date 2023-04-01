@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "dynamic", "dynamic\dynamic.vcxproj", "{CD2912C9-C8D1-4B15-83C6-5F96A21EF7B2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD2912C9-C8D1-4B15-83C6-5F96A21EF7B2}.Debug|x64.ActiveCfg = Debug|x64
+		{CD2912C9-C8D1-4B15-83C6-5F96A21EF7B2}.Debug|x64.Build.0 = Debug|x64
+		{CD2912C9-C8D1-4B15-83C6-5F96A21EF7B2}.Debug|x86.ActiveCfg = Debug|Win32
+		{CD2912C9-C8D1-4B15-83C6-5F96A21EF7B2}.Debug|x86.Build.0 = Debug|Win32
+		{CD2912C9-C8D1-4B15-83C6-5F96A21EF7B2}.Release|x64.ActiveCfg = Release|x64
+		{CD2912C9-C8D1-4B15-83C6-5F96A21EF7B2}.Release|x64.Build.0 = Release|x64
+		{CD2912C9-C8D1-4B15-83C6-5F96A21EF7B2}.Release|x86.ActiveCfg = Release|Win32
+		{CD2912C9-C8D1-4B15-83C6-5F96A21EF7B2}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A92C8CAA-755B-4924-8764-5949FA7D8276}
+	EndGlobalSection
+EndGlobal
